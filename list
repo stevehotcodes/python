@@ -1,0 +1,13 @@
+number =[1,2,3,5,4,5]
+#accessing list elements
+number[0]
+#looping through list item
+for i in number:
+    print(i)
+#poping an item from a list 
+ number.pop
+# apendding a item to a list
+number.append(6)
+#removing an item from a list index
+number. remove(5)
+
